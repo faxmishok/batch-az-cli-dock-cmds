@@ -1,4 +1,4 @@
-# python-installation
+# batch-az-cli-dock-cmds
 
 ## Quick handy az-cli & docker commands to deploy docker containers to Azure.
 
